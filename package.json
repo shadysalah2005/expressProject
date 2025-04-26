@@ -1,0 +1,34 @@
+{
+  "name": "expressproject",
+  "version": "1.0.0",
+  "description": "mini system of universte",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": " nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadysalah2005/expressProject.git"
+  },
+  "author": "shady salah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadysalah2005/expressProject/issues"
+  },
+  "homepage": "https://github.com/shadysalah2005/expressProject#readme",
+  "dependencies": {
+    "cls": "^0.1.5",
+    "continuation-local-storage": "^3.2.1",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "memorystorage": "^0.12.0",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.14.0",
+    "nanoid": "^5.1.5",
+    "nodemon": "^3.1.10",
+    "path": "^0.12.7",
+    "sequential-ids": "^0.0.0"
+  }
+}
